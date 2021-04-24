@@ -1,4 +1,4 @@
-**Simon Game**
+# Simon Game
 <br>
 A simple and fun game, built using HTML, CSS and JavaScript
 <br>
